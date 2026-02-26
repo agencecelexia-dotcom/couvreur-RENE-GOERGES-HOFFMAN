@@ -3,33 +3,33 @@
 
 ## IDENTITE
 
-NOM_ENTREPRISE: "Nom de l'Entreprise"
-NOM_LEGAL: "Nom de l'Entreprise SARL"
-SIRET: "000 000 000 00000"
+NOM_ENTREPRISE: "Hoffmann Rene-Georges"
+NOM_LEGAL: "Hoffmann Rene-Georges"
+SIRET: "993 691 278"
 METIER: "couvreur"
 METIER_LABEL: "Couvreur"
 GENRE_DIRIGEANT: "M"
-PRENOM_DIRIGEANT: "Prenom"
-NOM_DIRIGEANT: "Nom"
+PRENOM_DIRIGEANT: "René-Georges"
+NOM_DIRIGEANT: "Hoffmann"
 DIPLOME_DIRIGEANT: "couvreur-zingueur diplome, compagnon du devoir"
-ANNEE_CREATION: "2010"
+ANNEE_CREATION: "2025"
 ANNEES_EXPERIENCE: "15"
 
 ## CONTACT
 
-TELEPHONE: "00 00 00 00 00"
-EMAIL: "contact@votre-domaine.fr"
-ADRESSE: "1 Rue de la Paix"
-CODE_POSTAL: "00000"
-VILLE: "Votre Ville"
-DEPARTEMENT: "Votre Departement"
-REGION: "Votre Region"
+TELEPHONE: "06 72 10 28 29"
+EMAIL: "contact@hoffmann-couvreur.fr"
+ADRESSE: "317 Rue de la Garenne"
+CODE_POSTAL: "92000"
+VILLE: "Nanterre"
+DEPARTEMENT: "Hauts-de-Seine"
+REGION: "Île-de-France"
 PAYS: "France"
 HORAIRES: "Lun-Ven: 8h00-18h00, Sam: 9h00-13h00"
-ZONE_INTERVENTION: "Votre ville et region"
-ZONES_LISTE: "Votre Ville, Ville A, Ville B, Ville C, Ville D, Ville E, Ville F"
-LATITUDE: "46.603354"
-LONGITUDE: "1.888334"
+ZONE_INTERVENTION: "Nanterre et région Île-de-France"
+ZONES_LISTE: "Nanterre, Puteaux, La Défense, Courbevoie, Levallois-Perret, Rueil-Malmaison, Neuilly-sur-Seine, Boulogne-Billancourt"
+LATITUDE: "48.8975"
+LONGITUDE: "2.2048"
 
 ## BRANDING
 
@@ -43,19 +43,19 @@ FONT_CORPS: "DM Sans"
 
 ## SEO
 
-DOMAINE: "www.votre-domaine.fr"
-META_TITLE: "Nom de l'Entreprise | Couvreur a Votre Ville"
-META_DESCRIPTION: "Couvreur a Votre Ville. Couverture neuve, renovation de toiture, zinguerie, isolation, depannage urgent. Devis gratuit."
-META_KEYWORDS: "couvreur, couverture, toiture, renovation toiture, zinguerie, isolation toiture, depannage toiture, couvreur professionnel"
+DOMAINE: "www.hoffmann-couvreur.fr"
+META_TITLE: "Hoffmann Rene-Georges | Couvreur a Nanterre"
+META_DESCRIPTION: "Couvreur a Nanterre (92000). Couverture neuve, renovation de toiture, zinguerie, isolation, depannage urgent. Devis gratuit. Intervention Île-de-France."
+META_KEYWORDS: "couvreur Nanterre, couverture Nanterre, toiture Nanterre, renovation toiture Hauts-de-Seine, zinguerie, isolation toiture, depannage toiture urgent, couvreur professionnel"
 SCHEMA_TYPE: "RoofingContractor"
 
 ## CONTENU
 
-SLOGAN: "Votre Slogan Ici"
+SLOGAN: "Votre Toiture, Notre Métier"
 ACCROCHE_HERO: "Votre Toiture — Entre de Bonnes Mains"
-DESCRIPTION_ENTREPRISE: "Votre description d'entreprise. Couverture, renovation, zinguerie et isolation — un savoir-faire artisanal au service de votre toiture."
-DESCRIPTION_FOOTER: "Votre description courte pour le footer du site."
-DESCRIPTION_APROPOS: "Fondee par Prenom Nom, votre entreprise est nee d'une passion profonde pour les metiers de la couverture et du batiment."
+DESCRIPTION_ENTREPRISE: "Hoffmann Rene-Georges, artisan couvreur professionnel basé à Nanterre. Couverture, renovation, zinguerie et isolation — un savoir-faire artisanal au service de votre toiture depuis 2025."
+DESCRIPTION_FOOTER: "Couvreur professionnel à Nanterre spécialisé en rénovation de toitures, couverture neuve et zinguerie en Île-de-France."
+DESCRIPTION_APROPOS: "Fondee par René-Georges Hoffmann, notre entreprise est nee d'une passion profonde pour les metiers de la couverture et du batiment. Avec 15 ans d'experience, nous mettons notre expertise au service de la qualite et de la durabilite de vos projets."
 
 ## SERVICES
 
